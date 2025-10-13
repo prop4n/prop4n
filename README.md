@@ -5,6 +5,8 @@
 **DevOps Engineer**  
 Infrastructure • Automation • Cloud Native
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prop4n&layout=compact&theme=dark" />
+
 <br>
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -42,13 +44,10 @@ Crafting web interfaces with **React**, **Vue**, **Tailwind**, **shadcn**, **Zus
 ![Zustand](https://img.shields.io/badge/-Zustand-443E38?style=flat&logo=react&logoColor=white)
 
 <br>
-
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 <br>
 
 [LinkedIn](https://www.linkedin.com/in/elgr5/) • [Blog](https://legrandenzo.fr)
 
 <br>
-
 </div>
