@@ -5,8 +5,6 @@
 **DevOps Engineer**  
 Infrastructure • Automation • Cloud Native
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prop4n&layout=compact&theme=dark" />
-
 <br>
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━
